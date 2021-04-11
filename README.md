@@ -14,3 +14,7 @@ Projeta e simular no Proteus de um relógio digital com alarme utilizado o micro
 •	01 Led vermelho;
 •	07 Resistores de 10kΩ;
 •	08 Resistores de 330kΩ.
+
+Vídeos:
+
+
