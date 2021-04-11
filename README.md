@@ -2,7 +2,7 @@
 
 OBJETIVO:
 
-Projeta e simular no Proteus de um relógio digital com alarme utilizado o microprocessador STM32F103C6.
+Projetar e simular no Proteus de um relógio digital com alarme utilizado o microprocessador STM32F103C6.
 
  MATERIAIS:
 
