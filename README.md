@@ -15,6 +15,12 @@ Projeta e simular no Proteus de um relógio digital com alarme utilizado o micro
 •	07 Resistores de 10kΩ;
 •	08 Resistores de 330kΩ.
 
-Vídeos:
+VÍDEOS
+https://youtu.be/ZIz_0-D8v1c
+https://youtu.be/4gQIO5ovaY4
+https://youtu.be/xy5K8oh79Yg
 
+https://drive.google.com/file/d/1WTlMzr-jsnr4PBxsqkHvpXh7f7gJJFaB/view?usp=sharing
 
+https://drive.google.com/file/d/1_rpT4_MRzyx_9wb1kypmgF86wMw6ho3F/view?usp=sharing
+https://drive.google.com/file/d/18UJRy8xo_hk49_xz80TOtCRwfC0U1Z0K/view?usp=sharing
