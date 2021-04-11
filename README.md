@@ -1,5 +1,6 @@
 # RELÓGIO ALARME COM STM32F103C6
-Objetivo
+
+OBJETIVO
 
 Projeta e simular no Proteus de um relógio digital com alarme utilizado o microprocessador STM32F103C6.
 
