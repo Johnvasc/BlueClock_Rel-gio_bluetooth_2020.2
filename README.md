@@ -20,6 +20,7 @@ VÍDEOS:
 * Playlist: https://youtube.com/playlist?list=PL6nXUuZp96CshTndNeQcT7EwoIW4syck9
 
 ARQUIVOS GRAVADOS:
+
 https://youtu.be/ZIz_0-D8v1c
 
 https://youtu.be/4gQIO5ovaY4
